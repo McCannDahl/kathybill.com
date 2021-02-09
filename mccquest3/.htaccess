@@ -1,0 +1,8 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/mccannda/mccquest3/MccQuest/API"
+PassengerBaseURI "/mccquest3"
+PassengerNodejs "/home/mccannda/nodevenv/mccquest3/MccQuest/API/10/bin/node"
+PassengerAppType node
+PassengerStartupFile server.js
+PassengerAppLogFile "/home/mccannda/mccquest3/log.log"
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END

@@ -1,0 +1,7 @@
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION BEGIN
+PassengerAppRoot "/home/mccannda/nodetest"
+PassengerBaseURI "/nodetest"
+PassengerNodejs "/home/mccannda/nodevenv/nodetest/10/bin/node"
+PassengerAppType node
+PassengerStartupFile main2.js
+# DO NOT REMOVE. CLOUDLINUX PASSENGER CONFIGURATION END
